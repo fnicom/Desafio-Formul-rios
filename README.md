@@ -1,3 +1,7 @@
+# Quiz React
+
+Este é um projeto simples de quiz em React que permite aos usuários responder a várias perguntas e verificar seu desempenho.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
